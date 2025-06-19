@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="E9pn-DlYV4lK0uRRN3Jz">
-    <mxGraphModel dx="5728" dy="3315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3691" dy="2242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7031,7 +7031,7 @@
         <mxCell id="nTp4Ou-aMUgKBFG0PDqI-1560" value="1..1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;labelBackgroundColor=none;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="520" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="nTp4Ou-aMUgKBFG0PDqI-1561" value="1..1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;labelBackgroundColor=none;" connectable="0" vertex="1" parent="1">
+        <mxCell id="nTp4Ou-aMUgKBFG0PDqI-1561" value="1..*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;labelBackgroundColor=none;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="110" y="330" as="geometry" />
         </mxCell>
         <mxCell id="nTp4Ou-aMUgKBFG0PDqI-1562" value="SubstanceAssocieeDemande" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;labelBackgroundColor=none;" vertex="1" parent="1">
